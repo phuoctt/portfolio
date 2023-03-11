@@ -65020,7 +65020,7 @@ A.EI.prototype={
 E(a){var s,r,q,p,o=null,n="Montserrat",m=a.K(t.w).f.a,l=m.b,k=A.pA(0,A.FX(new A.eP(A.ff("assets/photos/avatar_black_white.jpg",o,o,m.a<1200?l*0.75:l*0.85),B.aK,B.b7,B.h,o),0.9),o,o,o,0,o,o),j=$.bg,i=t.p,h=A.cE(A.a([A.bl("WELCOME TO MY PORTFOLIO! ",$.o6.ic(n),o,o),new A.eP(A.ff("assets/hi.gif",o,o,$.bg*12*0.77+12),B.cB,B.b7,B.h,o)],i),B.o,B.aO),g=$.hg
 g.toString
 s=A.bl("Muhammad",$.Ry.If(n,B.c1),o,o)
-r=A.bl("Hamza",$.aiL.a0C(1),o,o)
+r=A.bl("TTP",$.aiL.a0C(1),o,o)
 q=A.cE(A.a([A.kp(B.fK,$.cl.a,o),A.afz(A.a([A.qr(" Flutter Developer",B.aS,$.fM),A.qr(" UI/UX Enthusiast",B.aS,$.fM),A.qr(" A friend :)",B.aS,$.fM)],t.u6),!0,!1)],i),B.o,B.r)
 p=$.a5t
 p.toString
