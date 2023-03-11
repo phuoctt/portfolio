@@ -1,15 +1,17 @@
 {
-    "name": "Phuoc Tran",
-    "email": "ttp.dev",
+    "name": "Muhammad Hamza",
+    "email": "hamza@mhmz.dev",
     "subtitles": [
-        "Flutter Developer"
+        "Flutter Developer",
+        "Technical Writer",
+        "UI/UX Designer"
     ],
     "blackWhitePhotoURL": "https://drive.google.com/uc?export=view&id=1np1Or8kvpEmH5ghkFN5GJGqU8VAQRUCH",
     "coloredPhotoURL": "https://drive.google.com/uc?export=view&id=1wE4FRqC9bRrzOqS64b48--ykLK1yklTJ",
     "socialLinks": [
         {
             "platform": "facebook",
-            "url": "https://www.facebook.com/thephuoc2101"
+            "url": "https://facebook.com/mhmzdev"
         },
         {
             "platform": "instagram",
@@ -147,7 +149,7 @@
         },
         {
             "param": "phone",
-            "value": "+84 0767696746"
+            "value": "+92 346 0159889"
         },
         {
             "param": "email",
